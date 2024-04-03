@@ -1,4 +1,4 @@
-生成XML文件：update.xml
+计算选择的目录文件信息生成XML文件：update.xml，可以用作升级的对照文件。
 包含字段有：
 "FileName" 文件名称
 "FilePath" 文件路径
